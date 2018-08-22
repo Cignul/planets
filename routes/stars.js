@@ -1,7 +1,6 @@
 let router = require('express').Router()
 let Stars = require('../models/star')
 
-
 // get all
 router.get('/', (req, res, next) => {
   Stars.find({})
@@ -14,7 +13,6 @@ router.get('/', (req, res, next) => {
 })
 
 //get one
-
 router.get('/:id', (req, res, next) => {
   Stars.findById(req.params.id)
     .then(star => res.send(star))
