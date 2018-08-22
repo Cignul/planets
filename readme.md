@@ -13,7 +13,7 @@ Perhaps one of the most difficult problems we face when building software is man
 - <a href=”https://en.wikipedia.org/wiki/One-to-many_(data_model)” target=”_blank”>One to Many</a>
 - <a href=”https://en.wikipedia.org/wiki/Many-to-many_(data_model)” target=”_blank”>Many to Many</a>
 
-Intelligent software companies will take a careful amount of time planning out these relationships prior to ever writing their first line of code for an application. While it may apear to many as a slow way to start an application having a clear consice plan of these relationships will save countless hours and <a href="http://rs674.pbsrc.com/albums/vv101/reeenda/writing_process.gif~c200" target="_blank">keyboard headbanging (***WARNING: Graphic stick figure death***)</a> from being the number one cause of death for a developer. 
+Intelligent software companies will take a careful amount of time planning out these relationships prior to ever writing their first line of code for an application. While it may apear to many as a slow way to start an application having a clear concise plan of these relationships will save countless hours and <a href="http://rs674.pbsrc.com/albums/vv101/reeenda/writing_process.gif~c200" target="_blank">keyboard headbanging (***WARNING: Graphic stick figure death***)</a> from being the number one cause of death for a developer. 
 
 Real world relationships are complex and often look something like <a href=”http://boycottnovell.com/wp-content/uploads/2010/02/software-map-with-arrows.png” target="_blank">this</a> when brought into code
 
